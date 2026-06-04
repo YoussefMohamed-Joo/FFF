@@ -1,0 +1,1 @@
+chrome-extension://ljaejgfmcchjjfhmgjgkfkmolmlncedf/rulesets/scripting/scriptlet/fra-0.prevent-window-open.js

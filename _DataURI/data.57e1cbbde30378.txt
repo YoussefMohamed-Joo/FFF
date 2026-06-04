@@ -1,0 +1,1 @@
+chrome-extension://ljaejgfmcchjjfhmgjgkfkmolmlncedf/js/scripting/css-declarative.js

@@ -1,0 +1,1 @@
+chrome-extension://ljaejgfmcchjjfhmgjgkfkmolmlncedf/rulesets/scripting/scriptlet/default.abort-on-property-read.js

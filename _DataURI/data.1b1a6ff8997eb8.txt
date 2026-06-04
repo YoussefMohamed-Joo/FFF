@@ -1,0 +1,1 @@
+chrome-extension://ljaejgfmcchjjfhmgjgkfkmolmlncedf/rulesets/scripting/specific/fra-0.js
